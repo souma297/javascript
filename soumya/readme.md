@@ -23,4 +23,24 @@ let:-
 -var is a type of variable which is also used for changing the variable in later stage.
 -var is used in oldest browswer so now  a days we are do't use var most of the cases
 3.const:-const means.
-task-diffrence between let constant
+task-diffrence between let constant.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+in javascript there are 7 types of primitive datatypes we used:-
+1.Number-Number are the type of datatype those it contain
